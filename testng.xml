@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+  <test name="test">
+ 
+  <classes>
+  <class name="GET200">
+ <!--  <methods>
+     <include name="URL" /> 
+        <include name="Login" />
+       <include name="Hotel" /> 
+        
+      </methods> -->
+  </class>
+ 
+  </classes>
+  </test> <!-- Test -->
+
