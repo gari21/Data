@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-  <test name="test1">
+  <test name="test12">
  
   <classes>
   <class name="GET200">
